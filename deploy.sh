@@ -1,0 +1,1 @@
+scp -r . nw:/var/www/swsolo/
